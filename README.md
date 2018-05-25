@@ -88,10 +88,14 @@
 ---
 ## Creado por
 
-> Maria Elizabeth Vera Meza (GDL181026)
-![Elizabeth](assets/Elizabeth.jpg)
+> Maria Elizabeth Vera Meza    
+* GDL181026           
+<img src="assets/Elizabeth.jpg" 
+alt="Elizabeth" width="60" height="60"/>
 
 
-> Blanca Luisa Valencia Hernandez (GDL181008)
-![Elizabeth](assets/eli.jpg)
+> Blanca Luisa Valencia Hernandez  
+* GDL181008    
+<img src="assets/eli.jpg" 
+alt="Blanca" width="60" height="60"/>
 
