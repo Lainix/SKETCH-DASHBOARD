@@ -1,9 +1,9 @@
 ## CREA UN SKETCH PARA LA HERRAMIENTA DEL DASHBOARD DE LABORATORIA
 >El dashboard es una herramienta utilizada por profesores, training managers, directores y gerentes de Laboratoria para ver rápidamente qué está pasando en el salón de clases de Laboratoria. En el dashboard, los usuarios mencionados pueden ver rápidamente estadísticas y datos en tiempo real como:
  
-* numero de alumnas inscritas
-* numero de alumnas que desertaron
-* numero de alumnas y % de alumnas que pasan el criterio mínimo de evaluación
+* Número de alumnas inscritas
+* Número de alumnas que desertaron
+* Número de alumnas y % de alumnas que pasan el criterio mínimo de evaluación
 * Promedio de notas por sprint
 * Promedio de notas HSE
 * Promedio de notas técnicas
@@ -58,31 +58,47 @@
 ---
 ## Historia de usuario
 
->Tipo de usuario: Está dirigida al Project Manager, el usuario quiere poder ver, manipular, comparar la información por cede, por alumna, por sprint, por nivel Tech, nivel Hse, para poder determinar en qué se puede ayudar a la alumna a mejorar y guiarla en el proceso de aprendizaje, así como identificar si algo se está haciendo mal por parte de el equipo de trabajo o bien que se debe continuar haciendo, para beneficiar netamente a alumnas y maestros.
+>Tipo de usuario: Está dirigida al Master, Project Manager y Teacher quiere poder ver, manipular, comparar la información por cede, por alumna, por sprint, por nivel Tech, nivel Hse, para poder determinar en qué se puede ayudar a la alumna a mejorar y guiarla en el proceso de aprendizaje, así como identificar si algo se está haciendo mal por parte de el equipo de trabajo o bien que se debe continuar haciendo, para beneficiar todo el proceso de ambos lados, y las alumnas solo pueden observar sus calificaciones y notas de los Teacher.
+>Otro punto importante es la seguridad de la información por eso se crearán perfiles que tendrán diferentes acciones a realizar, personalizado dependiendo del nivel de jerarquía. 
 
 ## Criterios de aceptación del usuario:
 
 - Ver la data
 - Manipular la data
 - Comparar la data
-- Ir desde lo mas amplio alo mas especifico: Cede, Alumna, Sprint, Nivel Tech, Nivel Hse.
-- Interfas amigable
+- Ir desde lo más amplio a lo mas especifico: Cede, Alumna, Sprint, Nivel Tech, Nivel Hse.
+- Interfaz amigable
 - De información fiable
+- Perfiles personalizados.
 
 ---
-## Diagrama de flujo
+## Flujo de la aplicación
 
-![Diagrama de flujo](assets/Diagrama_de_flujo.png "prototipo")
+![Flujo de la aplicación](assets/Flujo.png "prototipo")
 
 ---
-## Sketch  
+## Sketching   
+
+![Comic](assets/comic1.PNG "comic1")
+![Comic2](assets/comic2.PNG "comic2")
+
+---
+## Prototyping
 
 
 ![Login](assets/Login.jpeg "login")
 
-![Inicio](assets/Inicio.jpeg "Inicio")
+![Inicio](assets/inicio.png "Inicio")
 
-![Cedes](assets/cedes.jpeg "cedes")
+![Cedes](assets/Cedes.png "cedes")
+
+![User_master](assets/user_master.jpg "user_master")
+
+![User_Proyect_Manager](assets/Proyect_Manager.jpg "user_Proyect_Manager")
+
+![User_Teacher](assets/user_Teacher.jpg "user_Teacher")
+
+![User_student](assets/user_student.jpg "user_student")
 
 
 ---
