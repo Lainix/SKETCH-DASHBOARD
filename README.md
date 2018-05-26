@@ -85,19 +85,28 @@
 ---
 ## Prototyping
 
-
+- Login
 ![Login](assets/Login.jpeg "login")
 
-![Inicio](assets/inicio.png "Inicio")
+- Inicio
+![Inicio](assets/Inicio.jpg "Inicio")
 
+- Cedes
 ![Cedes](assets/Cedes.png "cedes")
 
+- Perfil Master
 ![User_master](assets/user_master.jpg "user_master")
 
-![User_Proyect_Manager](assets/Proyect_Manager.jpg "user_Proyect_Manager")
+- Perfil Proyect Manager
+![User_Proyect_Manager](assets/user_Manager.jpg "user_Proyect_Manager")
 
-![User_Teacher](assets/user_Teacher.jpg "user_Teacher")
+- Perfil Teacher poca funcionalidad
+![User_Teacher_poca_funcionalidad](assets/user_Teacher_poca_funcionalidad.jpg "user_Teacher_poca_funcionalidad")
 
+- Perfil Teacher con toda la funcionalidad
+![User_Teacher](assets/user_Teacher.png "user_Teacher")
+
+- Perfil Alumna
 ![User_student](assets/user_student.jpg "user_student")
 
 
